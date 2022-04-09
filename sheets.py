@@ -9,10 +9,10 @@ import mail
 
 # make a function that can be triggered somehow
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-SPREADSHEET_ID = '1NbZL9AIHhIhPqnHFiGfxQaFPHzIzBn90wc1LK3o_VPU'
-SPREADSHEET_ID2 = '1_kbuuRHtJHofPuk3c0wOFv7zPzoCE6P7b4MlVT7habw'
-RANGE_NAME = 'ForRyan!B2:F'
-RANGE_NAME2 = 'Data!B2:F'
+SPREADSHEET_ID = '<SPREADSHEET ID HERE>'
+SPREADSHEET_ID2 = '<SPREADSHEET ID HERE>'
+RANGE_NAME = '<RANGE HERE>'
+RANGE_NAME2 = '<RANGE HERE>'
 creds = None
 service = None
 
