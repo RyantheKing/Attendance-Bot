@@ -16,4 +16,5 @@ Set the program to run daily. If you wish for the process to be fully automated.
 Example of reports being sent:
 ![](https://i.ibb.co/xmK8GpY/report.png)
 (About 1/5th of the reports sent in a single day)
+
 ![](https://i.ibb.co/GM84v9s/emailscreenshots.png)
