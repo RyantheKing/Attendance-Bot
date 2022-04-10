@@ -17,4 +17,4 @@ Example of reports being sent:
 ![](https://i.ibb.co/xmK8GpY/report.png)
 (About 1/5th of the reports sent in a single day)
 
-![](https://i.ibb.co/GM84v9s/emailscreenshots.png)
+![](https://i.ibb.co/3Fj9yvf/emailscreenshots.png)
